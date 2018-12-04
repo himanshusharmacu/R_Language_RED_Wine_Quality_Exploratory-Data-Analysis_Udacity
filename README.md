@@ -4,12 +4,14 @@ In this project, I used R and apply exploratory data analysis techniques to expl
 # What do you need to install?
 * In order to complete the project, you will need to install R. You can download and install R from the Comprehensive R Archive Network (CRAN).
 
-# After installing R, you will need to download and install R Studio. Choose the appropriate installation for your operating system.
+* After installing R, you will need to download and install R Studio. Choose the appropriate installation for your operating system.
 
 * Finally, you will need to install a few packages. We recommend opening R Studio and installing the following packages using the command line.
 
 -> install.packages("ggplot2", dependencies = T) 
+
 -> install.packages("knitr", dependencies = T)
+
 -> install.packages("dplyr", dependencies = T)
 
 # Why this Project?
